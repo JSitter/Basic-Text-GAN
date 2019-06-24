@@ -1,0 +1,13 @@
+flask
+flask_restplus
+ipython
+pygments
+prompt-toolkit
+pexpect
+backcall
+traitlets
+decorator
+jedi
+pickleshare
+setuptools
+simplegeneric
