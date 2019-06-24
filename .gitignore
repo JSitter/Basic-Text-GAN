@@ -1,0 +1,9 @@
+dataset
+.vscode
+Pipfile
+Pipfile.log
+.ipynb_checkpoints
+.ipython
+.jupyter
+.local
+.config
