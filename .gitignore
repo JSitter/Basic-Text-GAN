@@ -7,3 +7,6 @@ Pipfile.log
 .jupyter
 .local
 .config
+.cache
+.keras
+temp_file*
