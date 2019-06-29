@@ -14,5 +14,5 @@ services:
       - ./dataset:/home/jovyan/dataset
     ports:
       - 8888:8888
+    command: jupyter lab
     container_name:   jupyter_notebook
-    command: "start-notebook.sh"
