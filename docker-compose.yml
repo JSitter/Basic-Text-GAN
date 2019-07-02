@@ -14,5 +14,5 @@ services:
       - ./dataset:/home/jovyan/dataset
     ports:
       - 8888:8888
-    command: jupyter lab
+    command: jupyter notebook --NotebookApp.iopub_data_rate_limit=10000000000
     container_name:   jupyter_notebook
